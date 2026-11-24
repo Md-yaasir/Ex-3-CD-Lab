@@ -101,7 +101,8 @@ void yyerror(const char *s)
 }
 ```
 # OUTPUT
-<img width="842" height="682" alt="image" src="https://github.com/user-attachments/assets/3a844054-434d-4ed3-90a0-85b2cf06b0ea" />
+<img width="842" height="682" alt="exp3_ss" src="https://github.com/user-attachments/assets/6f69e28e-93d8-4892-a9bd-5deadca27e45" />
+
 
 
 # RESULT
